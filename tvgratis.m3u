@@ -2049,7 +2049,5 @@ http://5startv.xyz:8080/Tonyp/yPKEJfH4Nh/120787
 http://5startv.xyz:8080/Tonyp/yPKEJfH4Nh/120788
 
 
-
-
-#EXTINX:-1 tvg-id="" tvg-name="Premiere" tvg-logo="https://piratetv.pro/premiere-2-ao-vivo-2/" goup-title="Só um teste",Premiere
+#EXTINF:-1 tvg-id="" tvg-name="Premiere" tvg-logo="https://piratetv.pro/premiere-2-ao-vivo-2/" group-title="So_testando",Premiere
 http://lb02.poseidontv.xyz:80/99311288/58227114/1982032
