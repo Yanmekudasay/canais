@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagizer.imageshack.com/img921/4025/uUdg5m.png" group-title="CANAIS DE FILMES", TESTE
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
 #EXTINF:-1 group-title="CANAIS FILMES E SERIES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",A&E FHD
 http://saga10.pro:80/345715/562156/2639888
 #EXTINF:-1 group-title="CANAIS FILMES E SERIES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",A&E HD
@@ -1242,3 +1244,4 @@ http://5startv.xyz:8080/Tonyp/yPKEJfH4Nh/120786
 http://5startv.xyz:8080/Tonyp/yPKEJfH4Nh/120787
 #EXTINF:-1 tvg-id="" tvg-name="BR: Zoomoo" tvg-logo="http://landiptv.vip:2095/images/HM3xx55KZnCUdlPuNC1k2CQmSialG6ZFMmnpVE7A3yp233OJirPjsQt4btJOZ4y084Kx4Yx_tiOlK3JspXQbhQ.png" group-title="Brazil",BR: Zoomoo
 http://5startv.xyz:8080/Tonyp/yPKEJfH4Nh/120788
+
