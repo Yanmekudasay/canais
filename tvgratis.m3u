@@ -7,10 +7,11 @@ http://saga10.pro:80/345715/562156/2639888/index.m3u8
 http://saga10.pro:80/345715/562156/2909015/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS DE ESPORTES", PREMIERE CLUBES FHD
-http://saga10.pro:80/345715/562156/2909035/index.m3u8
+http://saga10.pro:80/live/345715/562156/2909035.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/Cv1K2x.png" group-title="CANAIS DE FILMES", HBO HD
 http://saga10.pro:80/345715/562156/1263044/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagizer.imageshack.com/img921/4025/uUdg5m.png" group-title="CANAIS DE FILMES", CINEMAX FHD
 http://saga10.pro:80/345715/562156/2639908/index.m3u8
+
