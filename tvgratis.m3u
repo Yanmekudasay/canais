@@ -7,13 +7,8 @@ http://saga10.pro:80/345715/562156/2639888
 http://saga10.pro:80/345715/562156/2909015
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/921/UUQW0b.png" group-title="CANAIS DE ESPORTES", PREMIERE CLUBES FHD
-#EXTVLCOPT:network-caching=20000
-#EXTVLCOPT:live-caching=20000
-#EXTVLCOPT:file-caching=20000
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:http-reconnect-limit=10
-#EXTVLCOPT:rtsp-caching=20000
 http://saga10.pro:80/345715/562156/2909035
 
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/Cv1K2x.png" group-title="CANAIS DE ESPORTES", HBO HD
+http://saga10.pro:80/345715/562156/1263044
